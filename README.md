@@ -17,13 +17,16 @@ A team-built project created during a **hackathon**, developed using **Node.js**
 
 ---
 
-### 🔄 CRUD API – Django REST Framework  
-A clean backend API project built with Django and DRF to demonstrate CRUD operations and RESTful design.
+🌐 Library API – FastAPI
+A modern, async REST API for managing a digital library, built using FastAPI and Pydantic, with auto-generated Swagger documentation.
 
-- Manages `Book` resource using serializers, API views, and route handlers  
-- Shows understanding of Django models and REST conventions  
-- Ready to integrate with frontend apps or Postman testing  
-- [🔗 View Repository](https://github.com/dioramashvili/CrudAPI)
+= Designed with clean architecture and asynchronous endpoints (async def)
+- Implements full CRUD functionality for managing book resources
+- Validates data using Pydantic models and built-in dependency injection
+- Comes with interactive docs at /docs and /redoc out of the box
+-Easily extendable with JWT auth, filtering, and Dockerized deployment
+
+📎 View Repository
 
 ---
 
