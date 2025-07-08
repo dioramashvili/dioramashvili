@@ -17,16 +17,16 @@ A team-built project created during a **hackathon**, developed using **Node.js**
 
 ---
 
-🌐 Library API – FastAPI
-A modern, async REST API for managing a digital library, built using FastAPI and Pydantic, with auto-generated Swagger documentation.
+### ⚡ **Library API – FastAPI**
 
-= Designed with clean architecture and asynchronous endpoints (async def)
-- Implements full CRUD functionality for managing book resources
-- Validates data using Pydantic models and built-in dependency injection
-- Comes with interactive docs at /docs and /redoc out of the box
--Easily extendable with JWT auth, filtering, and Dockerized deployment
+A blazing-fast REST API for managing books, built with **FastAPI**, **Pydantic**, and **async I/O**. Perfect for learning modern backend development.
 
-📎 View Repository
+- 📚 Async CRUD operations on Book resources
+- 🛡️ Data validation with Pydantic models
+- 🖥️ Auto-generated docs via Swagger (`/docs`) and ReDoc (`/redoc`)
+- 🔧 Built with clean, extensible architecture and dependency injection
+- 🐳 Docker & testing support planned  
+- 📎 [View Repository](https://github.com/dioramashvili/fastapi-library)
 
 ---
 
