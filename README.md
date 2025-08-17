@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Davit Ioramashvili
 
-I'm a Computer Science student and aspiring backend/data engineer based in Tbilisi, Georgia. I enjoy building structured, maintainable backend systems and solving real-world problems through code. I have practical experience with Python, Django, Java, Node.js, SQL, and web APIs. I'm also actively expanding my skills in cloud platforms (AWS/GCP), orchestration tools (Airflow, DBT), and machine learning interfaces.
+I'm a Computer Science student and aspiring backend/data engineer based in Tbilisi, Georgia. I enjoy building structured, maintainable backend systems and solving real-world problems through code. I have practical experience with Python, Django, Java, Node.js, SQL, and web APIs. I'm also actively expanding my skills in cloud platforms (AWS/GCP) and machine learning interfaces.
 
 ---
 
@@ -62,7 +62,7 @@ A comprehensive PGN parser and validator that enforces the rules of chess. Built
 ## 💡 Interests
 
 - Backend engineering & API design  
-- Data engineering tools (Airflow, DBT)  
+- Data engineering tools 
 - Cloud and AI integration (Vertex AI, GCP workflows)  
 - Chess algorithms & rule enforcement engines  
 - Team-based learning and agile development
