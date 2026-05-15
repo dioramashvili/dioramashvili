@@ -1,80 +1,154 @@
 # 👋 Hi, I'm Davit Ioramashvili
 
-I'm a Computer Science student and aspiring backend/data engineer based in Tbilisi, Georgia. I enjoy building structured, maintainable backend systems and solving real-world problems through code. I have practical experience with Python, Django, Java, Node.js, SQL, and web APIs. I'm also actively expanding my skills in cloud platforms (AWS/GCP) and machine learning interfaces.
+Backend developer focused on Java, Spring Boot, REST APIs, SQL databases, and event-driven systems.
+
+I enjoy building structured backend applications, designing maintainable architectures, and solving real-world engineering problems. My recent work includes asynchronous transaction processing systems using RabbitMQ and SQL Server, alongside API-driven backend services and database-focused applications.
+
+Currently expanding knowledge in distributed systems, backend architecture, and scalable Java application development.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🌐 Fullstack Web App – Gaikvale  
-A team-built project created during a **hackathon**, developed using **Node.js**, **Express**, and **EJS templating** to render structured static content.
+### ⚡ Event-Driven Transaction Statistics Service – Java & RabbitMQ
 
-- Built collaboratively under tight deadlines  
-- Implements dynamic routing with clean layout rendering  
-- HTML/CSS for responsive design and content structure  
-- Integrated with **Vertex AI** to enable content suggestions and dynamic generation features  
-- [🔗 View Repository](https://github.com/dioramashvili/Gaikvale)
+Backend service designed for asynchronous transaction event processing using RabbitMQ and SQL Server.
 
----
+- Consumes transaction create/delete events from RabbitMQ topic exchanges
+- Aggregates transaction statistics by customer segment and transaction metadata
+- Implements Ack/Nack reliability handling and segment caching
+- Uses layered backend architecture with structured logging and JSON parsing
+- Built with Java, JDBC, RabbitMQ, SQL Server, Jackson, and Logback
 
-### ⚡ **Library API – FastAPI**
-
-A blazing-fast REST API for managing books, built with **FastAPI**, **Pydantic**, and **async I/O**. Perfect for learning modern backend development.
-
-- 📚 Async CRUD operations on Book resources
-- 🛡️ Data validation with Pydantic models
-- 🖥️ Auto-generated docs via Swagger (`/docs`) and ReDoc (`/redoc`)
-- 🔧 Built with clean, extensible architecture and dependency injection
-- 🐳 Docker & testing support planned  
-- 📎 [View Repository](https://github.com/dioramashvili/fastapi-library)
+🔗 Repository:  
+https://github.com/dioramashvili/ops-statistics-service
 
 ---
 
-### ♟️ Chess PGN Validator – Java  
-A comprehensive PGN parser and validator that enforces the rules of chess. Built using modular OOP design in Java to analyze, interpret, and validate chess game moves written in standard algebraic notation.
+### ♟️ Chess PGN Validator – Java
+
+A comprehensive PGN parser and validator built in Java to analyze, interpret, and validate chess games written in standard algebraic notation.
 
 - Validates SAN moves, castling, en passant, check/checkmate, and promotions
-- Designed for clarity, reusability, and future expansion
-- Currently being expanded into a full chess platform with server/client architecture, PGN export, and database integration
-- [🔗 View Repository](https://github.com/dioramashvili/chess-pgn-validator)
+- Built using modular OOP design for maintainability and extensibility
+- Focused on clean architecture and rule-based validation logic
+- Planned future expansion includes database integration and multiplayer/server architecture
+
+🔗 Repository:  
+https://github.com/dioramashvili/chess-pgn-validator
+
+---
+
+### ⚡ Library API – FastAPI
+
+REST API for managing books using FastAPI, Pydantic, and async I/O.
+
+- Async CRUD operations
+- Data validation with Pydantic
+- Auto-generated Swagger/ReDoc documentation
+- Structured and extensible backend architecture
+- Backend-focused API development practice
+
+🔗 Repository:  
+https://github.com/dioramashvili/fastapi-library
+
+---
+
+### 🌐 EchoWave Marketing Dashboard – Hackathon Project
+
+Team-based hackathon project focused on AI-powered marketing strategy evaluation.
+
+Built using Node.js, Express, and Google Vertex AI integration to provide feedback and recommendations for marketing scenarios.
+
+- AI-assisted marketing campaign evaluation
+- Frontend/backend integration
+- Dynamic routing and content rendering
+- Team collaboration under hackathon constraints
+
+🔗 Repository:  
+https://github.com/dioramashvili/Gaikvale
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, Java, JavaScript, SQL  
-- **Frameworks**: Django, Node.js, Express, DRF  
-- **Databases**: PostgreSQL, MongoDB  
-- **Tools**: Git, JIRA, Docker (basic), REST APIs, JSON  
-- **Cloud/Infra**: AWS (basic), GCP (basic), Vertex AI (exploration)  
-- **Other**: Django Signals, Agile collaboration, TestCase, Pytest
+### Languages
+- Java
+- Python
+- SQL
+- JavaScript
+
+### Backend & Frameworks
+- Spring Boot
+- Django
+- FastAPI
+- Node.js
+- Express
+
+### Messaging & APIs
+- RabbitMQ
+- REST APIs
+- JSON
+
+### Databases
+- PostgreSQL
+- Microsoft SQL Server
+- MongoDB
+
+### Tools & Concepts
+- Git
+- Docker
+- Maven
+- JDBC
+- Object-Oriented Programming (OOP)
+- Layered Architecture
+- Asynchronous Processing
+- Logging & Troubleshooting
 
 ---
 
-## 📚 Education & Courses
+## 💼 Experience
 
-- 🎓 BSc in Computer Science – Kutaisi International University  
-- 📘 Data Software Engineering – EPAM Campus (April 2025)  
-- 🐍 Advanced Python (Django) – TBC Academy (June 2024)
+### Application Support Specialist — BasisBank
+Working with enterprise banking applications, SQL databases, incident investigation, and cross-team technical communication in production environments.
+
+### Junior Software Tester — Exactpro
+Worked on regression testing, troubleshooting, test scenario maintenance, and analytical investigation in enterprise software systems.
+
+---
+
+## 📚 Education & Certifications
+
+- 🎓 BSc in Computer Science — Kutaisi International University
+- 📘 Data Software Engineering — EPAM Campus (2025)
+- 🐍 Advanced Python (Django) — TBC IT Academy (2024)
 
 ---
 
 ## 💡 Interests
 
-- Backend engineering & API design  
-- Data engineering tools 
-- Cloud and AI integration (Vertex AI, GCP workflows)  
-- Chess algorithms & rule enforcement engines  
-- Team-based learning and agile development
+- Backend engineering
+- Distributed systems
+- Event-driven architecture
+- Database systems
+- Enterprise software
+- API design
+- Messaging systems
+- Chess algorithms
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 📧 dioramashvili@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/dioramashvili)  
-- 🌍 [GitHub](https://github.com/dioramashvili)
+📧 dioramashvili@gmail.com
+
+🔗 LinkedIn  
+https://linkedin.com/in/dioramashvili
+
+🌍 GitHub  
+https://github.com/dioramashvili
 
 ---
 
-_Thanks for visiting! I'm always open to contributing to interesting projects or joining strong technical teams._
+Thanks for visiting my profile!  
+I'm always interested in backend engineering, distributed systems, and technically challenging projects.
