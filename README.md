@@ -25,14 +25,29 @@ https://github.com/dioramashvili/ops-statistics-service
 
 ---
 
+### 📅 Gegmara Adaptive Planner – Django REST Framework
+
+Team-built adaptive planning system that learns from user habits and improves scheduling decisions using historical task performance.
+
+- Built with Django, Django REST Framework, and Token Authentication
+- Implements task scheduling, conflict detection, calendar import, and analytics
+- Uses EMA-based duration learning and weekly adherence scoring
+- Provides duration recommendations, warnings, overrides, and auto-adjustment logic
+- Includes demo data, API documentation, and Postman collection
+
+🔗 Repository:  
+https://github.com/kiu-team-datwee/gegmara-adaptive-planner
+
+---
+
 ### ♟️ Chess PGN Validator – Java
 
-A comprehensive PGN parser and validator built in Java to analyze, interpret, and validate chess games written in standard algebraic notation.
+A PGN parser and validator built in Java to analyze and validate chess games written in standard algebraic notation.
 
 - Validates SAN moves, castling, en passant, check/checkmate, and promotions
-- Built using modular OOP design for maintainability and extensibility
+- Built using modular OOP design
 - Focused on clean architecture and rule-based validation logic
-- Planned future expansion includes database integration and multiplayer/server architecture
+- Planned future expansion includes database integration and server/client architecture
 
 🔗 Repository:  
 https://github.com/dioramashvili/chess-pgn-validator
@@ -46,27 +61,11 @@ REST API for managing books using FastAPI, Pydantic, and async I/O.
 - Async CRUD operations
 - Data validation with Pydantic
 - Auto-generated Swagger/ReDoc documentation
-- Structured and extensible backend architecture
+- Structured backend architecture
 - Backend-focused API development practice
 
 🔗 Repository:  
 https://github.com/dioramashvili/fastapi-library
-
----
-
-### 🌐 EchoWave Marketing Dashboard – Hackathon Project
-
-Team-based hackathon project focused on AI-powered marketing strategy evaluation.
-
-Built using Node.js, Express, and Google Vertex AI integration to provide feedback and recommendations for marketing scenarios.
-
-- AI-assisted marketing campaign evaluation
-- Frontend/backend integration
-- Dynamic routing and content rendering
-- Team collaboration under hackathon constraints
-
-🔗 Repository:  
-https://github.com/dioramashvili/Gaikvale
 
 ---
 
